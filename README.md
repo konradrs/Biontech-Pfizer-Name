@@ -1,5 +1,5 @@
 # Biontech-Pfizer-Name
-![#f03c15] Biontech-Pfizer-Name
+Is it Biontech-Pfizer´s or Pfizer-Biontech´s Vaccine?
 
 
 
