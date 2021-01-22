@@ -1,4 +1,4 @@
-# BNT162b2: BioNtech-Pfizer oder Pfizer-BioNtech?
+# BNT162b2: BioNtech-Pfizers oder Pfizer-BioNtechs Impfstoff?
 
 Wie reden wir über den von BioNtech entwickelten Namens BNT162b2?
 Wenn man international Medien verfolgt, fällt auf, dass der Impstoff unterschiedlich konnotiert wird. Der Kontrast zwischen der USA und Deutschland ist hier besonders hoch.
