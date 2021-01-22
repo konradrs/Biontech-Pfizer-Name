@@ -7,7 +7,7 @@ Während der Impstoff in den US Medien ausschließlich als "Pfizers Vaccine", ",
 
 ![alt text](https://cdn.searchenginejournal.com/wp-content/uploads/2020/05/reverse-image-search-your-complete-guide-5ef5f5435f949-1520x800.png)
 ## Daten
-#
+ 
 | Land | Zuerstnennung Pfizer | Zuerstnennnung BioNtech | Unbestimmbar |Pfizer/BioNtech in %
 | ---         |     ---      |     ---      |     ---      |     ---      |
 |Östereich|10|4|6|90/10
@@ -27,6 +27,6 @@ Während der Impstoff in den US Medien ausschließlich als "Pfizers Vaccine", ",
 
 
 `library(tidyRSS)`
-#
-`google_news_general <- (tidyfeed("https://news.google.com/rss/search?q=%22Biontech%22%20AND%20%22Pfizer%22&?hl=`*Sprache*`&gl=`*Standort*`&ceid=`*STANDORT*`:`*Sprache*`",
+
+`google_news_general <- (tidyfeed("https://news.google.com/rss/search?q=%22Biontech%22%20AND%20%22Pfizer%22&?hl=SPRACHE&gl=STANDORT&ceid=STANDORT:SPRACHE",
                             clean_tags = TRUE, parse_dates = TRUE)[c("feed_pub_date", "item_title", "item_description", "item_link")])
