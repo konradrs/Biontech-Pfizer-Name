@@ -7,6 +7,7 @@ Während der Impstoff in den US Medien ausschließlich als "Pfizers Vaccine", ",
 
 ![alt text](https://github.com/konradrs/Biontech-Pfizer-Name/blob/main/map.png?raw=true)
 ![Screenshot](map.png)
+<img src="https://github.com/favicon.ico" width="48">
 ## Daten
  
 | Land | Zuerstnennung Pfizer | Zuerstnennnung BioNtech | Unbestimmbar |Pfizer/BioNtech in %
