@@ -15,7 +15,7 @@ Deutschland
 |Östereich|10|4|6
 |Belgien|36|4|6
 |Frankreich|62|16|14
-|Deutschland2|69|29
+|Deutschland|2|69|29
 |Griechenland|51|14|10
 |Italien|77|12|11
 |Niederland|18|9|9|
