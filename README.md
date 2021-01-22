@@ -6,6 +6,15 @@ Während der Impstoff in den US Medien ausschließlich als "Pfizers Vaccine", ",
 
 <div><img src="https://github.com/konradrs/Biontech-Pfizer-Name/blob/main/map.png?raw=true" width="650">></div>
 
+<table width=100% height=100%> 
+    <tr>
+        <td class="height" style="text-align: center; vertical-align: middle;">
+            <img src="https://github.com/konradrs/Biontech-Pfizer-Name/blob/main/map.png?raw=true" width=650 />
+        </td>
+    </tr>
+</table>
+
+
 
 ## Daten
  
