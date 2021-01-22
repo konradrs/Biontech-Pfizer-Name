@@ -7,10 +7,10 @@ Während der Impstoff in den US Medien ausschließlich als "Pfizers Vaccine", ",
 
 ![alt text](https://cdn.searchenginejournal.com/wp-content/uploads/2020/05/reverse-image-search-your-complete-guide-5ef5f5435f949-1520x800.png)
 ## Daten
-Deutschland 
 
 
-| Land | Zuerstnennung Pfizer | Zuerstnennnung BioNtech | Unbestimmbar |Prozentsätze
+
+| Land | Zuerstnennung Pfizer | Zuerstnennnung BioNtech | Unbestimmbar |Pfizer/BioNtech in %
 | ---         |     ---      |     ---      |     ---      |     ---      |
 |Östereich|10|4|6|90/10
 |Belgien|36|4|6|78/22
