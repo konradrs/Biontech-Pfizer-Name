@@ -1,5 +1,5 @@
-# Biontech-Pfizer-Name
-Is it Biontech-Pfizer´s or Pfizer-Biontech´s Vaccine?
+# Is it the Biontech-Pfizer or the Pfizer-Biontech Vaccine?
+
 
 
 
