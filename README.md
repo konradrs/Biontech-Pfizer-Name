@@ -4,15 +4,11 @@ Wie reden wir über den von BioNtech entwickelten Namens BNT162b2?
 Wenn man international Medien verfolgt, fällt auf, dass der Impstoff unterschiedlich konnotiert wird. Der Kontrast zwischen der USA und Deutschland ist hier besonders hoch.
 Während der Impstoff in den US Medien ausschließlich als "Pfizers Vaccine", ", sagt man in Deutschland "BioNtechs Impfstoff" oder "von Biontech mit seinem Partner Pfizer entwickelten"
 
-<div><img src="https://github.com/konradrs/Biontech-Pfizer-Name/blob/main/map.png?raw=true" width="650">></div>
 
-<table width=100% height=100%> 
-    <tr>
-        <td class="height" style="text-align: center; vertical-align: middle;">
-            <img src="https://github.com/konradrs/Biontech-Pfizer-Name/blob/main/map.png?raw=true" width=100 height=100 />
-        </td>
-    </tr>
-</table>
+
+<p align="center">
+  <img src="https://github.com/konradrs/Biontech-Pfizer-Name/blob/main/map.png?raw=true" width="350" />
+</p
 
 
 
