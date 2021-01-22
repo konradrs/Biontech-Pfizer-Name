@@ -10,7 +10,7 @@ Während der Impstoff in den US Medien ausschließlich als "Pfizers Vaccine", ",
 Deutschland 
 
 
-| Land | Center-aligned |
-| :---         |     :---:      |
-|Östereich| git status     |
+| Land | Zuerstnennung Pfizer | Zuerstnennnung BioNtech | Unbestimmbar
+| :---         |     :---:      |     :---:      |     :---:      |
+|Östereich|10|4|6
 | Deutschaland   | git diff       | 
