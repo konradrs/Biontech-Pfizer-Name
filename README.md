@@ -5,7 +5,7 @@ Wenn man international Medien verfolgt, fällt auf, dass der Impstoff unterschie
 Während der Impstoff in den US Medien ausschließlich als "Pfizers Vaccine", ", sagt man in Deutschland "BioNtechs Impfstoff" oder "von Biontech mit seinem Partner Pfizer entwickelten"
 
 
-![alt text](https://github.com/konradrs/Biontech-Pfizer-Name]/blob/main/map.png?raw=trueng)
+![alt text](https://github.com/konradrs/Biontech-Pfizer-Name/blob/main/map.png?raw=true)
 ## Daten
  
 | Land | Zuerstnennung Pfizer | Zuerstnennnung BioNtech | Unbestimmbar |Pfizer/BioNtech in %
