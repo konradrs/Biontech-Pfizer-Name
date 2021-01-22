@@ -29,4 +29,4 @@ Während der Impstoff in den US Medien ausschließlich als "Pfizers Vaccine", ",
 `library(tidyRSS)`
 
 `google_news_general <- (tidyfeed("https://news.google.com/rss/search?q=%22Biontech%22%20AND%20%22Pfizer%22&?hl=SPRACHE&gl=STANDORT&ceid=STANDORT:SPRACHE",
-                            clean_tags = TRUE, parse_dates = TRUE)[c("feed_pub_date", "item_title", "item_description", "item_link")])
+                            clean_tags = TRUE, parse_dates = TRUE)[c("feed_pub_date", "item_title", "item_description", "item_link")])`
