@@ -11,6 +11,16 @@ Deutschland
 
 
 | Land | Zuerstnennung Pfizer | Zuerstnennnung BioNtech | Unbestimmbar
-| :---         |     :---:      |     :---:      |     :---:      |
+| ---         |     ---      |     ---      |     ---      |
 |Östereich|10|4|6
-| Deutschaland   | git diff       | 
+|Belgien|36|4|6
+|Frankreich|62|16|14
+|Deutschland2|69|29
+|Griechenland|51|14|10
+|Italien|77|12|11
+|Niederland|18|9|9|
+|Norwegen|12|3|11
+|Polen|31|6|12
+|Portugal|38|12|8
+|Schweiz|8|10|82
+|Vereinigtes Königreich|62|24|13
